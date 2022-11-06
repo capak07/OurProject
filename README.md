@@ -8,4 +8,4 @@ mmyronen
 3. Learned how to push local repository content to a remote repository use push command
 4. Learned how to add files and then commit them using -a commit
 5. Learned about how a HEAD can become detached if not careful
-Done by Justin Arthaud-Berthet Sueur (CannotCode1)
+\Done by Justin Arthaud-Berthet Sueur (CannotCode1)
