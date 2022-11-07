@@ -12,5 +12,8 @@ mmyronen
 # Working with Remotes
 1. learned about creating a remote repository in GitHub to share our local repository
 2. learned about creating a remote repository in GitHub for others to clone
+3. learned how to pull/push
+4. learned that pull command is really a combination of fetch and merge
+5. learned that –in markdown, sections start with a pound-sign
 <br/>Done by Maryna Myronenko (mmyronen)
 
