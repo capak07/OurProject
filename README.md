@@ -26,4 +26,4 @@ mmyronen
    `<br/>`Done by Maryna Myronenko (mmyronen)
 6. Learned how to merge branches
 7. Leanred how to fetch and push changes and commits
-   <br/> Done by Atharav Kadam
+   `<br/>` Done by Atharav Kadam
