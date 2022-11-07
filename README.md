@@ -12,3 +12,5 @@ mmyronen
 # Working with Remotes
 1. learned about creating a remote repository in GitHub to share our local repository
 2. learned about creating a remote repository in GitHub for others to clone
+<br/>Done by Maryna Myronenko (mmyronen)
+
