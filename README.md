@@ -12,10 +12,9 @@ mmyronen
 4. Learned how to add files and then commit them using -a commit
 5. Learned about how a HEAD can become detached if not careful
    `<br/>`Done by Justin Arthaud-Berthet Sueur (CannotCode1)
-
-   1. Learned how to revert and reset commits
-   2. Learned how to change the message of commits
-      `<br/>Done by Atharav Kadam (capak07) `
+6. Learned how to rest and revert commits
+7. Learned how to change commit message
+   `<br/> Done by Atharav Kadam (capak07))`
 
 # Working with Remotes
 
@@ -25,7 +24,6 @@ mmyronen
 4. learned that pull command is really a combination of fetch and merge
 5. learned that –in markdown, sections start with a pound-sign
    `<br/>`Done by Maryna Myronenko (mmyronen)
-
-   1. Learned how to merge branches.
-   2. Learned how to fetch and push changes
-      `<br> Done by Atharav Kadam (capak07)`
+6. Learned how to merge branches
+7. Leanred how to fetch and push changes and commits
+   `<br/> Done by Atharav Kadam`
