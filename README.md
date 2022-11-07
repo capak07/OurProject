@@ -14,7 +14,7 @@ mmyronen
    `<br/>`Done by Justin Arthaud-Berthet Sueur (CannotCode1)
 6. Learned how to rest and revert commits
 7. Learned how to change commit message
-   `<br/> Done by Atharav Kadam (capak07))`
+   `<br/>` Done by Atharav Kadam (capak07)
 
 # Working with Remotes
 
@@ -26,4 +26,4 @@ mmyronen
    `<br/>`Done by Maryna Myronenko (mmyronen)
 6. Learned how to merge branches
 7. Leanred how to fetch and push changes and commits
-   `<br/> Done by Atharav Kadam`
+   <br/> Done by Atharav Kadam
