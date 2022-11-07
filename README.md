@@ -9,3 +9,6 @@ mmyronen
 4. Learned how to add files and then commit them using -a commit
 5. Learned about how a HEAD can become detached if not careful 
 <br/>Done by Justin Arthaud-Berthet Sueur (CannotCode1)
+# Working with Remotes
+1. learned about creating a remote repository in GitHub to share our local repository
+2. learned about creating a remote repository in GitHub for others to clone
